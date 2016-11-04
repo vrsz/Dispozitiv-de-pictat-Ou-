@@ -3,12 +3,12 @@ Un dispozitiv electromecanic asemenea unei masini cu comandă numerică.
 
  Membri Proiectului:
  
-  -Catalin Popovici  - Team Leader
-  -Rakonczai Claudiu - Client
-  -Loiar Anton       - Developer
-  -Slabu Adriana     - 
-  -Carasel Mircea    - 
-  -Pekari Robert     - 
+  - Catalin Popovici  - Team Leader
+  - Rakonczai Claudiu - Client
+  - Loiar Anton       - Developer
+  - Slabu Adriana     - 
+  - Carasel Mircea    - 
+  - Pekari Robert     - 
  
  Link: Suport de curs: http://profs.info.uaic.ro/~adiftene/Scoala/2016/IP/index.htm
 
