@@ -10,7 +10,7 @@ Un dispozitiv electromecanic asemenea unei masini cu comandă numerică.
   - Carasel Mircea    - Member
   - Pekari Robert     - Member
  
-  
+   
  Link: Suport de curs: http://profs.info.uaic.ro/~adiftene/Scoala/2016/IP/index.htm
 
  
