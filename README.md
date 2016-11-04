@@ -10,3 +10,6 @@ Un dispozitiv electromecanic asemenea unei masini cu comandă numerică.
  -
  
  Aștept numele voastre complete pe FB.
+ 
+ 
+ Mai multe detalii pe: https://github.com/vrsz/OuBot/wiki
