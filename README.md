@@ -6,9 +6,10 @@ Un dispozitiv electromecanic asemenea unei masini cu comandă numerică.
   - Catalin Popovici  - Team Leader
   - Rakonczai Claudiu - Client
   - Loiar Anton       - Developer
-  - Slabu Adriana     - 
-  - Carasel Mircea    - 
-  - Pekari Robert     - 
+  - Slabu Adriana     - Member
+  - Carasel Mircea    - Member
+  - Pekari Robert     - Member
+ 
  
  Link: Suport de curs: http://profs.info.uaic.ro/~adiftene/Scoala/2016/IP/index.htm
 
