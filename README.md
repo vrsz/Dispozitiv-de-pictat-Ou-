@@ -1,6 +1,8 @@
 # OuBot
 Un dispozitiv electromecanic asemenea unei masini cu comandă numerică.
 
+![](http://imageshack.com/a/img923/1033/hN5CKw.jpg)
+
  Membri Proiectului:
  
   - Catalin Popovici  - Team Leader
@@ -9,6 +11,7 @@ Un dispozitiv electromecanic asemenea unei masini cu comandă numerică.
   - Slabu Adriana     - Member
   - Carasel Mircea    - Member
   - Pekari Robert     - Member
+  - --
  
    
  Link: Suport de curs: http://profs.info.uaic.ro/~adiftene/Scoala/2016/IP/index.htm
