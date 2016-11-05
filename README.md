@@ -2,7 +2,7 @@
 - Un dispozitiv electromecanic asemenea unei masini cu comandă numerică.
 
 
-![](http://imageshack.com/a/img923/1033/hN5CKw.jpg)
+ ![](http://imageshack.com/a/img923/1033/hN5CKw.jpg)
 
  Membri Proiectului:
  
@@ -14,7 +14,7 @@
   - Pekari Robert     - Member
   - --
  
-   Imagine reprezentativa:
+  
  ![](https://imagizer.imageshack.us/v2/628x472q90/921/R4GRs9.jpg)
 
  
