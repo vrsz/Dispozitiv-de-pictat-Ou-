@@ -8,7 +8,6 @@
   - Catalin Popovici  - Team Leader
   - Rakonczai Claudiu - Client
   - Loiar Anton       - Developer
-  - Slabu Adriana     - Member
   - Carasel Mircea    - Member
   - Pekari Robert     - Member
   - --
