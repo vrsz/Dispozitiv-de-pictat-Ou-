@@ -10,6 +10,7 @@
   - Loiar Anton       - Developer
   - Carasel Mircea    - Șefu la bani
   - Pekari Robert     - Member
+  - Beloia Sebastian  - Member
   - --
  
  Stadiu> https://youtu.be/1EiGs8HITUA
