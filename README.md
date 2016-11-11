@@ -11,7 +11,6 @@
   - Carasel Mircea    - Șefu la bani
   - Beloia Sebastian  - Member
   - Pekari Robert     - Member
-  
   - ....
   
   ---------------------------------
