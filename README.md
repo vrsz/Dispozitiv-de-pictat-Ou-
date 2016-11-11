@@ -9,8 +9,9 @@
   - Rakonczai Claudiu - Client
   - Loiar Anton       - Developer
   - Carasel Mircea    - Șefu la bani
-  - Pekari Robert     - Member
   - Beloia Sebastian  - Member
+  - Pekari Robert     - Member
+  
   - 
   
   ---------------------------------
