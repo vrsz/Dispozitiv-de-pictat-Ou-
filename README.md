@@ -11,9 +11,12 @@
   - Carasel Mircea    - Șefu la bani
   - Pekari Robert     - Member
   - Beloia Sebastian  - Member
-  - --
+  
+  
+
  
- Stadiu> https://youtu.be/1EiGs8HITUA
+ Preview: https://youtu.be/t2b88T8raCU
+ 
  ![](https://imagizer.imageshack.us/v2/628x472q90/921/R4GRs9.jpg)
 
  
