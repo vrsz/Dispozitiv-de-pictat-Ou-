@@ -6,13 +6,13 @@
  Membri Proiectului:
  
   - Catalin Popovici  - Team Leader
-  - Rakonczai Claudiu - Client
+  - Rakonczai Claudiu - Quality Engineer
   - Loiar Anton       - Developer
   - Carasel Mircea    - Șefu la bani
   - Beloia Sebastian  - Member
   - Pekari Robert     - Member
   
-  - 
+  - ....
   
   ---------------------------------
   
