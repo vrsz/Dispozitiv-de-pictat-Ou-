@@ -11,11 +11,10 @@
   - Carasel Mircea    - Șefu la bani
   - Pekari Robert     - Member
   - Beloia Sebastian  - Member
-  
-  
-
- 
- Preview: ![](https://github.com/vrsz/OuBot/blob/master/logo/giphy.gif)
+  ---------------------------------
+   
+ Preview:
+ ![](https://github.com/vrsz/OuBot/blob/master/logo/giphy.gif)
  
  ![](https://imagizer.imageshack.us/v2/628x472q90/921/R4GRs9.jpg)
 
