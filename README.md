@@ -8,8 +8,9 @@
   - Catalin Popovici  - Team Leader
   - Rakonczai Claudiu - Client
   - Loiar Anton       - Developer
-  - Carasel Mircea    - Member
+  - Carasel Mircea    - Șefu la bani
   - Pekari Robert     - Member
+  - Beloia Sebastian  - Member
   - --
  
  Stadiu> https://youtu.be/1EiGs8HITUA
